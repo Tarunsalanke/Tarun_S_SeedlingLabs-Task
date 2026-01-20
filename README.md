@@ -152,4 +152,6 @@ Issue Number:
 ## 👨‍💻 Author
 
 Built by **Tarun S**
+tarunsalanke@gmail.com
 Engineering Intern Applicant – Seedling Labs
+
