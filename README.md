@@ -128,6 +128,15 @@ Issue Number:
   "potential_impact": "Users are unable to use the application on affected devices"
 }
 ```
+## Home Screen
+![Image alt](https://github.com/Tarunsalanke/Tarun_S_SeedlingLabs-Task/blob/03a6e4f4c86b84377eeb08bf3925d82ddc6fdbc1/Home.png)
+
+## Analysed Report
+![Image alt](https://github.com/Tarunsalanke/Tarun_S_SeedlingLabs-Task/blob/03a6e4f4c86b84377eeb08bf3925d82ddc6fdbc1/Analysed-reports.png)
+
+## JSON Response
+![Image alt](https://github.com/Tarunsalanke/Tarun_S_SeedlingLabs-Task/blob/03a6e4f4c86b84377eeb08bf3925d82ddc6fdbc1/JSON-response.png)
+
 
 ---
 
