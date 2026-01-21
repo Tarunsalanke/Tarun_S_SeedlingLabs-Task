@@ -34,7 +34,7 @@ This project was built as part of the **Seedling Labs Engineering Intern Craft C
 ## 📁 Project Structure
 
 ```
-github-issue-ai-assistant/
+/Tarun_S_SeedlingLabs-Task
 │
 ├── app.py                  # Streamlit frontend
 ├── main.py                 # FastAPI backend
@@ -59,7 +59,7 @@ github-issue-ai-assistant/
 ### 1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Tarunsalanke/Tarun_S_SeedlingLabs-Task.git
-cd github-issue-ai-assistant
+cd Tarun_S_SeedlingLabs-Task
 ```
 
 ### 2️⃣ Create Virtual Environment
@@ -79,7 +79,7 @@ Create a `.env` file:
 
 ```env
 GROQ_API_KEY=your_groq_api_key_here
-GITHUB_TOKEN=optional_github_token
+
 ```
 
 ---
@@ -152,4 +152,6 @@ Issue Number:
 ## 👨‍💻 Author
 
 Built by **Tarun S**
+tarunsalanke@gmail.com
 Engineering Intern Applicant – Seedling Labs
+
